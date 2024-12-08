@@ -3,18 +3,21 @@
 Welcome to FormSculptor! We are dedicated to developing a comprehensive web-based application that leverages innovative technologies to assist needy communities and the general public in Hong Kong. Our goal is to enhance document management and data processing for small and medium-sized enterprises (SMEs), non-governmental organizations (NGOs), and educational institutions.
 
 ### 🌈 Contribution Guidelines
-We welcome contributions from everyone! Here’s how you can get involved:
-
-1. **Fork the repository**: Click on the "Fork" button at the top right of this page.
-2. **Create a branch**: Use a descriptive name for your branch (e.g., `feature/new-feature` or `bugfix/fix-issue`).
-3. **Make your changes**: Implement your feature or fix.
-4. **Commit your changes**: Write clear and concise commit messages.
-5. **Push to your branch**: Push your changes back to your forked repository.
-6. **Open a pull request**: Submit a pull request to the main repository for review.
+As this is a closed-source project, contributions in the form of code are not accepted. However, we welcome feedback, suggestions, and collaboration opportunities. Please reach out through our contact emails listed below.
 
 ### 👩‍💻 Useful Resources
-- **Documentation**: For detailed information about our application, please refer to our [Wiki](https://github.com/FormSculptor/FormSculptor/wiki) (link to be created).
-- **Issues**: If you encounter any problems or have suggestions, please check our [Issues](https://github.com/FormSculptor/FormSculptor/issues) page.
+- **Documentation**: For detailed information about our application, please refer to our [Documentation Site](https://docs.formsculptor.com/) for both customers and developers.
+
+### 📧 Contact Information
+For any inquiries or support, please use the following email addresses:
+
+- General Information: [info@formsculptor.com](mailto:info@formsculptor.com)
+- GitHub Inquiries: [github@formsculptor.com](mailto:github@formsculptor.com)
+- General Contact: [contact@formsculptor.com](mailto:contact@formsculptor.com)
+- Support: [support@formsculptor.com](mailto:support@formsculptor.com)
+- No Reply Email: [noreply@formsculptor.com](mailto:noreply@formsculptor.com)
+- Newsletter Subscription: [newsletter@formsculptor.com](mailto:newsletter@formsculptor.com)
+- Billing Inquiries: [billing@formsculptor.com](mailto:billing@formsculptor.com)
 
 ### 🍿 Fun Facts
 Our team is passionate about sustainability! We often share breakfast ideas that are eco-friendly, such as oatmeal with fruits or smoothies made from local produce. We believe in starting our day with healthy choices that reflect our commitment to a low-carbon future.
