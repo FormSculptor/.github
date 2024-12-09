@@ -1,3 +1,9 @@
+# FormSculptor
+
+## Language Options
+- [English](README.en.md)
+- [繁體中文](README.zh.md)
+
 ## Hi there 👋
 
 Welcome to FormSculptor! We are dedicated to developing a comprehensive web-based application that leverages innovative technologies to assist needy communities and the general public in Hong Kong. Our goal is to enhance document management and data processing for small and medium-sized enterprises (SMEs), non-governmental organizations (NGOs), and educational institutions.
